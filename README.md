@@ -1,4 +1,6 @@
-# Working version of SillyTavern Chub Search
+# (Dont) Working version of SillyTavern Chub Search
+# Use new fork: https://github.com/JanMyst/Chub-Search-Fixedv2
+# This fork is no longer being updated.
 ## What new?
 - 30 char cards on one page
 - fix page switching
